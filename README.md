@@ -1,6 +1,6 @@
-# 白色毛球小窩 :link: https://j02760.github.io/Jschiya.github.io 
-### :page_facing_up: [2](https://j02760.github.io/Jschiya.github.io/tag.html) 
-### :speech_balloon: 1 
+# 白色毛球小窩 :link: https://j02760.github.io/Jschiya_/ 
+### :page_facing_up: [2](https://j02760.github.io/Jschiya_//tag.html) 
+### :speech_balloon: 2 
 ### :hibiscus: 619 
-### :alarm_clock: 2024-06-14 20:22:36 
+### :alarm_clock: 2024-06-14 20:26:24 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
